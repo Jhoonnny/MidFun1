@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body{
+    background: #f2f2f2;
+    font-family: Roboto;
+  }
+  
+  header{
+    color: #fff;
+  }
+  
+  header a{
+    color: #fff;
+    text-decoration: none;
+    
+  }
+  
+  .logo-menu{
+    background: #00171f;
+    font-family: Roboto;
+    
+  }
+  
+  .logo-menu h2{
+    letter-spacing: 1px;
+  }
+  
+  .logo-menu .menu a{
+    display: inline-block;
+    padding: 40px 20px;
+    text-decoration: none;
+    color: #fff;
+    font-family: Roboto;
+    font-size: 15px;
+    
+  }
+  
+  .logo-menu .menu a:hover{
+    border-bottom: 4px solid #ff9f1c;
+    padding-bottom: 36px;
+    
+  }
